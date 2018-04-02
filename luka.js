@@ -79,7 +79,7 @@ $(document).ready(function() {
         for (var i = 0; i < 15; i++) {
           if (vrednost[i] == i+1+"") {
             k++;
-            if (k == 1) {
+            if (k == 15) {
               $('h3').show();
               clearInterval(loop);
               $('#wrap').hide();
