@@ -1,0 +1,91 @@
+*{
+  padding: 0px;
+  margin: 0 auto;
+}
+body{
+  background: #FFAAAA;
+}
+#wrap{
+  height: 400px;
+  width: 400px;
+  border: solid #550000 2px;
+  margin-top: 50px;
+
+}
+#prazno{
+  background: #550000;
+  border: solid #801515 1px;
+  box-sizing: border-box;
+  height: 100px;
+  width: 100px;
+  float: left;
+  position: relative;
+  color: #31605D;
+}
+.puno{
+  background: #D46A6A;
+  border: solid #801515 1px;
+  box-sizing: border-box;
+  height: 100px;
+width: 100px;
+  float: left;
+  text-align: center;
+  line-height: 100px;
+  font-size: 3em;
+  color: #550000;
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+header{
+  height: 150px;
+  width: 600px;
+  position: center;
+  background: blue;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 2em;
+  background:#D46A6A ;
+  color:#550000;
+  border: 2px solid #550000;
+}
+#timer{
+  height: 30px;
+  width: 120px;
+  background: #D46A6A;
+  position: relative;
+  top: 10px;
+  left: 200px;
+  color:#801515;
+}
+#upis{
+  height: 150px;
+  width: 400px;
+  background: #D46A6A;
+  text-align: center;
+  margin-top: 300px;
+  color:#550000;
+  border-radius: 10px;
+  border: 2px solid #550000;
+}
+#username{
+  margin-top: 20px;
+  margin-left: 20px;
+  height: 30px;
+  width: 250px;
+  color:#550000;
+  background: #FFAAAA;
+  border: 2px solid #550000;
+}
+#btn{
+  margin-top: 20px;
+  width: 150px;
+  height: 40px;
+  margin-left: 100px;
+  color:#550000;
+  background: #FFAAAA;
+  border: 2px solid #550000;
+}
