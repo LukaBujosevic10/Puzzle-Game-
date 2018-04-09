@@ -227,7 +227,7 @@ console.log(at);
           }
         }
         $(timer).text(minutes+":"+seconds+":"+stotinke)
-      },1)
+      },10)
     }
 
     $('#btn').on('click', function() {
